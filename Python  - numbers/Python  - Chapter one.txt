@@ -1,0 +1,14 @@
+Pythioin Fundamentos - Números 
+
+
+
+1)  Tipos de números em Python
+
+    - int
+    - float
+    
+    * função type()  -> retorna o tipo do dado
+    * int() and float() converter valores
+    
+    ¨ Podemos realizar qualquer operação em Python
+2) 

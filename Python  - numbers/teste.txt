@@ -1,0 +1,3 @@
+
+Ola este arquivo foi gerado pelo proprio Jupyter Notebook.
+Podemos gerar quantas linhas quisermos e o Jupyter gera o arquivo final.
